@@ -1,16 +1,71 @@
-## Hi there 👋
+# Tazmi
 
-<!--
-**Tazmi-Asdes/Tazmi-Asdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> System Operations Engineer  
+> Servers · CI/CD · Kubernetes · Observability
 
-Here are some ideas to get you started:
+I build and document practical infrastructure: from a personal public server and automated deployment pipeline, to Kubernetes microservice deployment and full-stack observability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Profile
+
+```txt
+Name        Lin Zihang / Tazmi
+Focus       System operations, infrastructure, automation
+Website     https://tazmi.online
+GitHub      github.com/Tazmi-Asdes
+Email       2926238971@qq.com
+```
+
+## Work
+
+```txt
+01  Personal server infrastructure
+    Ubuntu Server, IPv6 access, DDNS, Docker, 1Panel, firewall rules,
+    backup strategy, and automated deployment for a personal blog.
+
+02  CI/CD pipeline
+    Drone CI workflow for automatic build and deployment after push,
+    with Docker Volume and pnpm-store cache optimization.
+
+03  Kubernetes microservice deployment
+    Three-node Kubernetes cluster, RuoYi-Cloud services, NFS dynamic
+    provisioning, Harbor image registry, Traefik ingress, ConfigMap,
+    Secret, probes, anti-affinity, and HPA.
+
+04  Observability platform
+    OpenTelemetry Java Agent and dual Collector architecture with
+    Prometheus, Loki, Tempo, Grafana, metrics, logs, traces, and alerts.
+```
+
+## Stack
+
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-111111?style=flat-square&logo=traefikproxy&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-111111?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-111111?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-111111?style=flat-square&logo=opentelemetry&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-111111?style=flat-square&logo=astro&logoColor=white)
+
+## Notes
+
+- I write about real operations practice, not only polished conclusions.
+- I care about stable deployment, traceable changes, and fast recovery.
+- Current interests: Kubernetes reliability, observability, and deployment automation.
+
+## Writing
+
+- [K8S 项目](https://tazmi.online)
+- [服务器搭建实践](https://tazmi.online)
+
+---
+
+```txt
+Everything should be observable.
+Everything repeated should be automated.
+Everything broken should become a note.
+```
