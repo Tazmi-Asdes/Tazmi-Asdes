@@ -3,18 +3,15 @@
 > System Operations Engineer  
 > Servers · CI/CD · Kubernetes · Observability
 
-I build and document practical infrastructure: from a personal public server and automated deployment pipeline, to Kubernetes microservice deployment and full-stack observability.
-
 ---
 
 ## Profile
 
 ```txt
-Name        Lin Zihang / Tazmi
+Name        Tazmi
 Focus       System operations, infrastructure, automation
 Website     https://tazmi.online
 GitHub      github.com/Tazmi-Asdes
-Email       2926238971@qq.com
 ```
 
 ## Work
