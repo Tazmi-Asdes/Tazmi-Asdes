@@ -51,21 +51,7 @@ Email       2926238971@qq.com
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-111111?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-111111?style=flat-square&logo=astro&logoColor=white)
 
-## Notes
-
-- I write about real operations practice, not only polished conclusions.
-- I care about stable deployment, traceable changes, and fast recovery.
-- Current interests: Kubernetes reliability, observability, and deployment automation.
-
 ## Writing
 
 - [K8S 项目](https://tazmi.online)
 - [服务器搭建实践](https://tazmi.online)
-
----
-
-```txt
-Everything should be observable.
-Everything repeated should be automated.
-Everything broken should become a note.
-```
